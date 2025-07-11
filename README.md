@@ -8,8 +8,8 @@ A full-stack application using React (frontend) and Django + SQLite (backend).
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ashish-jha-73/WebD.git
+cd WebD
 
 # 2. Backend setup (Django + SQLite)
 cd backend
